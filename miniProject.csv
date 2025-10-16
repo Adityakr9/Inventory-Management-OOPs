@@ -1,0 +1,5 @@
+ID,name,price,stock,category
+11,Laptop,70000.0,5,Electronics
+12,Shirt,1500.0,10,Fashion
+13,Iphone,90000.0,3,Electronics
+42, 'Notebook',425.0,15, 'Study'

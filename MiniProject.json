@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 11,
+    "name": "Laptop",
+    "price": 70000,
+    "stock": 5,
+    "category": "Electronics"
+  },
+  {
+    "ID": 12,
+    "name": "Shirt",
+    "price": 1500,
+    "stock": 10,
+    "category": "Fashion"
+  },
+  {
+    "ID": 13,
+    "name": "Iphone",
+    "price": 90000,
+    "stock": 3,
+    "category": "Electronics"
+  },
+  {
+    "ID": 42,
+    "name": " 'Notebook'",
+    "price": 425.0,
+    "stock": 15,
+    "category": " 'Study'"
+  }
+]
