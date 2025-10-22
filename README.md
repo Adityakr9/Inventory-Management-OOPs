@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/23046938/README.2.md)
 # Inventory Management System 
 
 A robust, object-oriented Python-based **Inventory Management System** for small to medium-sized stores. Track products, manage stock, apply discounts, generate reports, and export data effortlessly. Built with clean code, custom exceptions, and modular design following OOP principles – perfect for beginners and pros alike!
@@ -20,8 +19,8 @@ A robust, object-oriented Python-based **Inventory Management System** for small
 
 ##  Installation
 1. **Clone the Repo**:
-2. git clone https://github.com/talibansari1914/inventory-management-system.git
-cd inventory-management-system
+2. git clone https://github.com/Adityakr9/Inventory-Management-OOPs.git
+cd Inventory-Management-OOPs
 3.pip install pandas
 
 - Sample products (Laptop, Refrigerator, etc.) are auto-loaded for demo.
@@ -110,4 +109,5 @@ Issues? Open one with details – happy to collaborate!
 ---
 
 **Star this repo if it helped!**  _Feedback welcome – let's make it even better!_
+
 
