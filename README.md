@@ -103,11 +103,11 @@ Love the project? Fork it, make improvements (e.g., GUI with Tkinter, DB integra
 Issues? Open one with details – happy to collaborate! 
 
 
-##  Author
-- **Abbu Talib Ansari** | [GitHub](https://github.com/talibansari1914)
+##  Using the tool and Lang
 - Developed in: Spyder IDE 
 - Built with  for learning OOP & Python.
 
 ---
 
 **Star this repo if it helped!**  _Feedback welcome – let's make it even better!_
+
